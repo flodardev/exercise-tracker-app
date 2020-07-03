@@ -4,7 +4,7 @@ Users can log their exercises
 
 ## Deployed
 
-https://radolfdailyjournal.herokuapp.com/
+https://flodardevexercisetracker.herokuapp.com/
 
 ## Built With
 
